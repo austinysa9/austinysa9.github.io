@@ -6,8 +6,8 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials</div><img src='images/AM_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[Scalable Jet Swimmer Driven by Pulsatile Artificial Muscles and Soft Chamber Buckling](https://doi.org/10.1002/adma.202503777) \\
+Wenhui Chen, **Shengan Yang**, Chi Zhu, Yitao Cheng, Yutong Shi, Chunpeng Yu, Ke Liu
 
 [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
