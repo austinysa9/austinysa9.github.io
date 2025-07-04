@@ -7,8 +7,6 @@
 [Scalable Jet Swimmer Driven by Pulsatile Artificial Muscles and Soft Chamber Buckling](https://doi.org/10.1002/adma.202503777) \\
 Wenhui Chen, **Shengan Yang**, Chi Zhu, Yitao Cheng, Yutong Shi, Chunpeng Yu, Ke Liu
 
-**Project**
-
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
 - **Academic Impact**: This work demonstrates synergy of smart materials + soft mechanics + system integration.
 </div>
