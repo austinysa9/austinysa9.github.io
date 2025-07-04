@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Austin Yang (杨盛安)"
+title                    : "Shengan (Austin) Yang (杨盛安)"
 description              :
 repository               : "austinysa9/austinysa9.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Austin Yang (杨盛安)"
+  name             : "Shengan (Austin) Yang (杨盛安)"
   avatar           : "images/austin.jpg"
   bio              : "PhD student focusing on robotics"
   location         : "Cambridge, UK"
