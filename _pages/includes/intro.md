@@ -4,4 +4,6 @@ Previously, I completed my bachelor's degree in Honours Mechanical Engineering a
 
 My research interests lie in robotics, with a background in hardware design, control, smart materials, and structures. During my PhD, I hope to further explore the hardware side of robotics and deepen my understanding through hands-on work.
 
+fasfsdfafsaf
+
 
