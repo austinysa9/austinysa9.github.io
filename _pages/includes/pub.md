@@ -13,6 +13,6 @@ Wenhui Chen, **Shengan Yang**, Chi Zhu, Yitao Cheng, Yutong Shi, Chunpeng Yu, Ke
 </div>
 </div>
 
-% - ``Advanced Materials`` [Scalable Jet Swimmer Driven by Pulsatile Artificial Muscles and Soft Chamber Buckling](https://doi.org/10.1002/adma.202503777), Wenhui Chen, **Shengan Yang**, Chi Zhu, Yitao Cheng, Yutong Shi, Chunpeng Yu, Ke Liu.
+# - ``Advanced Materials`` [Scalable Jet Swimmer Driven by Pulsatile Artificial Muscles and Soft Chamber Buckling](https://doi.org/10.1002/adma.202503777), Wenhui Chen, **Shengan Yang**, Chi Zhu, Yitao Cheng, Yutong Shi, Chunpeng Yu, Ke Liu.
 - ``AIAA SCITECH 2023`` [Modeling of a Wind-Turbine-Powered Ground Vehicle](https://doi.org/10.2514/6.2023-2094), Meyer Nahon, Zihao Zhuo, **Shengan Yang**, Inna Sharf, Rick Cavallaro and Stephen Morris.
 - ``AIAA SCITECH 2023`` [Modeling of the Blackbird Wind-Powered Ground Vehicle](https://doi.org/10.2514/6.2023-0910), Meyer Nahon, Zihao Zhuo, **Shengan Yang**, Inna Sharf, Rick Cavallaro and Stephen Morris.
