@@ -22,17 +22,16 @@ linkedin: shengan-yang
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a PhD student in the Department of Computer Science and Technology at the University of Cambridge, supervised by Prof. Rika Antonova. My research focuses on robotics,
+    both in hardware and software. I am particularly interested in the design and control of robotic systems, as well as their applications in various domains such as manipulation, locomotion, and human-robot interaction. I have a background in mechanical engineering, and I am passionate about building robots that can interact with the world in a meaningful way.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I received my M.S. in Mechanical Engineering from Stanford University, where I worked on the design and control of soft robotic systems. Prior to that, I completed my B.Eng. in Honours Mechanical Engineering at McGill University, where I was involved in various research projects related to unmanned aerial vehicles and aerodynamics.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: University of Cambridge
