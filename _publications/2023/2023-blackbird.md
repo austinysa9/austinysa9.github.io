@@ -12,6 +12,8 @@ authors:
 - Zihao Zhuo
 - Your Name
 - Inna Sharf
+- Rick Cavallaro
+- Stephen Morris
 links:
-  Paper: https://www.cell.com
+  Paper: https://arc.aiaa.org/doi/abs/10.2514/6.2023-0910
 ---
