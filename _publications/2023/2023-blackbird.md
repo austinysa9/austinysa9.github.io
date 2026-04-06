@@ -10,7 +10,7 @@ cover:          /assets/images/covers/cover1.jpg
 authors:
 - Meyer Nahon
 - Zihao Zhuo
-- Your Name
+- Austin
 - Inna Sharf
 - Rick Cavallaro
 - Stephen Morris
