@@ -1,7 +1,7 @@
 ---
 title:          "Analysis and optimization of UAV turning methodology"
 date:           2022-07-20 00:00:00 -0400
-selected:       true
+selected:       false
 pub:            "McGill University"
 pub_date:       "2022"
 abstract: >-
