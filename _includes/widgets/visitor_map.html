@@ -1,0 +1,34 @@
+{% assign visitor_map = site.visitor_map %}
+{% if visitor_map and visitor_map.enabled %}
+<div class="mt-3 d-md-none"></div>
+<div class="row mt-3">
+    <div class="col">
+        <div class="card border-0 shadow-sm bg-white">
+            <div class="card-body p-4">
+                <div class="row px-3 pt-3">
+                    <div class="col h4 mb-0">
+                        {{ visitor_map.title | default: "Visitor Map" }}
+                    </div>
+                </div>
+                <div class="row p-3">
+                    <div class="col text-center">
+                        <a href="{{ visitor_map.link_url }}" target="_blank" rel="noopener noreferrer">
+                            <img
+                                src="{{ visitor_map.image_url }}"
+                                alt="{{ visitor_map.alt | default: 'Visitor map' }}"
+                                class="img-fluid"
+                                loading="lazy"
+                            >
+                        </a>
+                        {% if visitor_map.caption %}
+                        <div class="small text-muted mt-3">
+                            {{ visitor_map.caption }}
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}

@@ -41,10 +41,19 @@ collections:
 
 # Optional website analytics for your deployed site.
 # Static GitHub Pages cannot identify visitors by name unless they log in or submit a form,
-# but you can record aggregate visits with a service such as Plausible or GoatCounter.
+# but you can record aggregate visits with a service such as GoatCounter.
 analytics:
   enabled: true
-  provider: "plausible" # supported: plausible, goatcounter
-  plausible_domain: "austinysa9.github.io" # change this if you later add a custom domain
-  plausible_script_src: "https://plausible.io/js/pa-NuTula7anJ7lcPedupXTI.js"
-  goatcounter_url: "" # e.g. https://your-code.goatcounter.com/count
+  provider: "goatcounter" # supported: plausible, goatcounter
+  plausible_domain: ""
+  plausible_script_src: ""
+  goatcounter_url: "https://austinyang.goatcounter.com/count"
+
+# Public visitor map widget. Clicking it opens the country breakdown page.
+visitor_map:
+  enabled: true
+  title: "Visitor Map"
+  link_url: "https://info.flagcounter.com/bKrg"
+  image_url: "https://s01.flagcounter.com/map/bKrg/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
+  alt: "Visitor map from Flag Counter"
+  caption: "Public country map powered by Flag Counter."
