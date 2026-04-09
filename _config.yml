@@ -54,6 +54,6 @@ visitor_map:
   enabled: true
   title: "Visitor Map"
   link_url: "https://info.flagcounter.com/bKrg"
-  image_url: "https://s01.flagcounter.com/map/bKrg/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
+  image_url: "https://s01.flagcounter.com/map/bKrg/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
   alt: "Visitor map from Flag Counter"
   caption: "Public country map powered by Flag Counter."
