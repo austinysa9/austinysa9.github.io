@@ -38,3 +38,13 @@ collections:
   - publications
   - news
   - showcase
+
+# Optional website analytics for your deployed site.
+# Static GitHub Pages cannot identify visitors by name unless they log in or submit a form,
+# but you can record aggregate visits with a service such as Plausible or GoatCounter.
+analytics:
+  enabled: true
+  provider: "plausible" # supported: plausible, goatcounter
+  plausible_domain: "austinysa9.github.io" # change this if you later add a custom domain
+  plausible_script_src: "https://plausible.io/js/pa-NuTula7anJ7lcPedupXTI.js"
+  goatcounter_url: "" # e.g. https://your-code.goatcounter.com/count
